@@ -41,14 +41,75 @@ Evaluation
 
 1.  _Evaluation Criteria_
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Daily Grade | 25%\* |
-| Five Lesson Quizzes (LQ) | 25%\*\* |
-| Two Interview Tests | 15% |
-| One-Hour Exam | 15% |
-| Vocabulary, Dictation, Kanji Quizzes | 10%\*\*\* |
-| Homework | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily Grade
+{{< tdclose >}}
+{{< tdopen >}}
+25%\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five Lesson Quizzes (LQ)
+{{< tdclose >}}
+{{< tdopen >}}
+25%\*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Interview Tests
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One-Hour Exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vocabulary, Dictation, Kanji Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%\*\*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \*The student's three lowest daily scores will be dropped at the end of the term.
 
@@ -60,15 +121,126 @@ Evaluation
 
 In the drill sessions, students will receive a daily grade based on the performance evaluated with the following criteria:
 
-| Grade | PERFORMANCE | PREPARATION | PARTICIPATION/CONTRIBUTION |
-| --- | --- | --- | --- |
-| 10 | Excellent | Excellent | Very active/excellent |
-| 9 | Strong/minor errors | Good | Consistent |
-| 8 | Fair but needs improvement | Adequate | Adequate but needs improvement |
-| 7 | Weak/with mistakes in major areas | Some | Sporadic |
-| 6 | Unsatisfactory | Inadequate | Infrequent |
-| 5 | Present but very poor | None | Seldom |
-| 0 || {{< td-colspan 4 >}}Absent{{< /td-colspan >}} |||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Grade
+{{< thclose >}}
+{{< thopen >}}
+PERFORMANCE
+{{< thclose >}}
+{{< thopen >}}
+PREPARATION
+{{< thclose >}}
+{{< thopen >}}
+PARTICIPATION/CONTRIBUTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Excellent
+{{< tdclose >}}
+{{< tdopen >}}
+Excellent
+{{< tdclose >}}
+{{< tdopen >}}
+Very active/excellent
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Strong/minor errors
+{{< tdclose >}}
+{{< tdopen >}}
+Good
+{{< tdclose >}}
+{{< tdopen >}}
+Consistent
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Fair but needs improvement
+{{< tdclose >}}
+{{< tdopen >}}
+Adequate
+{{< tdclose >}}
+{{< tdopen >}}
+Adequate but needs improvement
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Weak/with mistakes in major areas
+{{< tdclose >}}
+{{< tdopen >}}
+Some
+{{< tdclose >}}
+{{< tdopen >}}
+Sporadic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Unsatisfactory
+{{< tdclose >}}
+{{< tdopen >}}
+Inadequate
+{{< tdclose >}}
+{{< tdopen >}}
+Infrequent
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Present but very poor
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+{{< tdopen >}}
+Seldom
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen colspan="4" >}}
+Absent
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 9.  _Attendance Policy_
     1.  Attend all sessions. Because of the cumulative nature of language learning, it is essential that you attend all sessions and keep up with the course work on a daily basis. Please follow the online daily schedule and come to class well-prepared.
